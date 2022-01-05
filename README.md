@@ -1,7 +1,7 @@
 
-[![background-github.png](https://i.postimg.cc/Px0RLVyd/background-github.png)](https:///www.linkedin.com/in/william-monroy)
+[![background-github.png](https://i.postimg.cc/7h293Rcn/ab5398cf5eee70433c1fe2cd7ff299e7.jpg)](https://www.linkedin.com/in/catalina-fern%C3%A1ndez-mena-bb4231197/)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=william-monroy&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Catalina-fdzmena&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 ### Hi there 👋
 ### 👨🏻‍💻 &nbsp;About Me
 

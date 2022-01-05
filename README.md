@@ -27,7 +27,7 @@
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
 ![PANDAS](https://img.shields.io/badge/-PANDAS-05122A?style=flat&logo=PANDAS)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-05122A?style=flat&logo=Jupyter)&nbsp;\
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=Jupyter)&nbsp;\
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -45,7 +45,7 @@
 </a>
 </p>
 
-### ☎️🏻 &nbsp;Connect with Me
+### ☎ &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/catalina-fern%C3%A1ndez-mena-bb4231197/"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LINKEDiN"/></a>

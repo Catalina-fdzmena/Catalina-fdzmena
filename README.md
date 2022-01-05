@@ -10,8 +10,8 @@
 
 👩‍💼 &nbsp;Andrea Catalina Fernandez-Mena (she/her).\
 🎓 &nbsp;A mexican 19 y/o Computer Science Engineering Student at Tecnologico de Monterrey.\
-📞 &nbsp;Team Lead Manager @ Teleperformance
-💡 &nbsp;I belive that social transformation through tecnology is the key for world change and human evolution.\
+📞 &nbsp;Team Lead Manager @ Teleperformance.\
+💡  &nbsp;I belive that social transformation through tecnology is the key for world change and human evolution.\
 🦾 &nbsp;Bioinformatics,Data Science,Cloud Computing, Physics and Technical Director Enthuciast.\
 🌍 &nbsp;I'm passioante about helping others, find real-life solutions based on data predictions and sometimes rigg 3D characters.\
 💼 &nbsp;Currently seeking for either internships or part-time jobs/project to apply the skills I've been working on as well as my previous job experience with Data .\
@@ -21,19 +21,17 @@
 ### 🛠💻 &nbsp;My Technical Skills 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;\
 ![PANDAS](https://img.shields.io/badge/-PANDAS-05122A?style=flat&logo=PANDAS)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=Jupyter)&nbsp;\
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=Jupyter)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 📈 &nbsp;My Github Analytics and stats

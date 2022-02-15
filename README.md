@@ -9,7 +9,7 @@
 
 
 👩‍💼 &nbsp;Andrea Catalina Fernandez-Mena (she/her) I'm a mexican 20 y/o Developer.\
-🎓 &nbsp; B.S in Business Digital Transformation student at Tecnologico de Monterrey.\
+🎓 &nbsp; B.S. in Computer Science and Technology.\
 📞 &nbsp;Team Lead Manager @ Teleperformance.\
 💡  &nbsp;I belive that social transformation through tecnology is the key for world change and human evolution.\
 🦾 &nbsp;Bioinformatics,Data Science,Cloud Computing, Physics and Technical Director Enthuciast.\

@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Catalina-fdzmena&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
-### &nbsp;I'm glad to have you here!! Grab a seat! 👋
+### &nbsp;I'm glad to have you're here!! Grab a seat! 👋
 
 ### 👩‍💻 &nbsp;About Myself
 
 
-👩‍💼 &nbsp;Andrea Catalina Fernandez-Mena (she/her).\
-🎓 &nbsp;A mexican 19 y/o Computer Science Engineering Student at Tecnologico de Monterrey.\
+👩‍💼 &nbsp;Andrea Catalina Fernandez-Mena (she/her) I'm a mexican 20 y/o Developer.\
+🎓 &nbsp; B.S in Business Digital Transformation student at Tecnologico de Monterrey.\
 📞 &nbsp;Team Lead Manager @ Teleperformance.\
 💡  &nbsp;I belive that social transformation through tecnology is the key for world change and human evolution.\
 🦾 &nbsp;Bioinformatics,Data Science,Cloud Computing, Physics and Technical Director Enthuciast.\

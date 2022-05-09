@@ -46,7 +46,7 @@
 ### ☎ &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/catalina-fern%C3%A1ndez-mena-bb4231197/"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LINKEDiN"/></a>
+<a href="https://www.linkedin.com/in/catalina-fernandez-mena-bb4231197"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LINKEDiN"/></a>
 <a href="mailto:katy.fernandezmena@gmail.com"><img src="https://img.shields.io/badge/-katy.fernandezmena@gmail.com-05122A?style=flat&logo=gmail"/></a>
 </p>
 

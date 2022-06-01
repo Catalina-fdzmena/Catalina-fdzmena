@@ -15,7 +15,7 @@
 🦾 &nbsp;Bioinformatics, Data Science, Physics and Technical Director Enthuciast.\
 🌍 &nbsp;I'm passionate about helping others, find real-life solutions based on data predictions and sometimes rigg 3D characters.\
 💼 &nbsp;Currently seeking for either internships or part-time jobs/project to apply the skills I've been working on as well as my previous job experience with Data .\
-💬 &nbsp;Feel free to reach out to me for volunteering, or any type of consulting. \
+💬 &nbsp;Feel free to reach out to me for volunteering, or any type of consulting. 
 
 
 ### 🛠💻 &nbsp;My Technical Skills 

@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Catalina-fdzmena&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
-### &nbsp;I'm glad to have you're here!! Grab a seat! 👋
+### &nbsp;I'm glad to have you here!! Grab a seat! 👋
 
 ### 👩‍💻 &nbsp;About Myself
 

@@ -11,11 +11,8 @@
 👩‍💼 &nbsp;Andrea Catalina Fernandez-Mena (she/her) I'm a mexican 20 y/o Developer.\
 🎓 &nbsp; B.S. in Computer Science and Technology.\
 📞 &nbsp;Data Architect @ Teleperformance.\
-💡  &nbsp;I belive that social transformation through tecnology is the key for world change and human evolution.\
-🦾 &nbsp;Bioinformatics, Data Science, Physics and Technical Director Enthuciast.\
-🌍 &nbsp;I'm passionate about helping others, find real-life solutions based on data predictions and sometimes rigg 3D characters.\
-💼 &nbsp;Currently seeking for either internships or part-time jobs/project to apply the skills I've been working on as well as my previous job experience with Data .\
-💬 &nbsp;Feel free to reach out to me for volunteering, or any type of consulting. 
+💡  &nbsp;Software engineering, Data Science and Computer Graphics are my 3 biggest passions .\
+💬 &nbsp;Feel free to reach out for volunteering, or any type of consulting. 
 
 
 ### 🛠💻 &nbsp;My Technical Skills 

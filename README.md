@@ -1,18 +1,16 @@
-
-[![background-github.png](https://i.postimg.cc/0yCN5dnt/presentation.png)](https://www.linkedin.com/in/catalina-fern%C3%A1ndez-mena-bb4231197/)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Catalina-fdzmena&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
-
 ### &nbsp;I'm glad to have you here!! Grab a seat! 👋
 
 ### 👩‍💻 &nbsp;About Myself
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Catalina-fdzmena&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
-👩‍💼 &nbsp;Andrea Catalina Fernandez-Mena (she/her) I'm a mexican 20 y/o Developer.\
-🎓 &nbsp; B.S. in Computer Science and Technology.\
-📞 &nbsp;Data Architect @ Teleperformance.\
-💡  &nbsp;Software engineering, Data Science and Computer Graphics are my 3 biggest passions .\
-💬 &nbsp;Feel free to reach out for volunteering, or any type of consulting. 
+👩‍💼 &nbsp;Andrea Catalina Fernandez-Mena (she/her) I'm a 20 y/o mexican dev who loves combining art and technology .\
+🎓 &nbsp;B.S. in Computer Science and Technology | grad date July 2024 .\
+📞 &nbsp;Data Architect @ Teleperformance .\
+💡  &nbsp; AI and Computer Graphics are my two biggest passions .\
+💬 &nbsp;Currently learning fullstack dev. Feel free to reach for any commitions .
+
+
 
 
 ### 🛠💻 &nbsp;My Technical Skills 

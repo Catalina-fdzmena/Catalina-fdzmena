@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Catalina-fdzmena&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
-👩‍💼 &nbsp;Andrea Catalina Fernandez-Mena (she/her) I'm a 21 y/o mexican dev who loves combining art and technology .\
+👩‍💼 &nbsp;Andrea Catalina Fernandez-Mena (she/her) I'm a 22 y/o mexican dev who loves combining art and technology .\
 🎓 &nbsp;B.S. in Computer Science and Technology | grad date July 2024 .\
 💡  &nbsp; AI and Computer Graphics are my two biggest passions .\
 💬 &nbsp;Currently learning fullstack dev. Feel free to reach for any commitions .

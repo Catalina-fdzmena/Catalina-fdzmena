@@ -1,4 +1,4 @@
-### &nbsp;I'm glad to have you here!! Grab a seat! 👋
+### &nbsp;Hi there! 👋
 
 ### 👩‍💻 &nbsp;About Myself
 
